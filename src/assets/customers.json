@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "salutation": "Mr.",
+        "firstName": "Paul",
+        "lastName": "Mitchell",
+        "addressLine1": "1222 56th St S",
+        "addressLine2": "apt 23",
+        "city": "Fargo",
+        "state": "ND",
+        "zipCode": "58104",
+        "emailAddress": "ash@sample.com",
+        "telePhoneNumber": "5551345699"
+    },
+    {
+        "id": 2,
+        "salutation": "Mr.",
+        "firstName": "Lucas",
+        "lastName": "Mackinze",
+        "addressLine1": "742 Evergreen Terrace",
+        "addressLine2": "123 Fake Street",
+        "city": "Buenos Aires",
+        "state": "Argentina",
+        "zipCode": "1754",
+        "emailAddress": "lucas.mackinze@sample.com",
+        "telePhoneNumber": "5491112345678"
+    },
+    {
+        "id": 3,
+        "salutation": "Mrs.",
+        "firstName": "Angelina",
+        "lastName": "Jolie",
+        "addressLine1": "Random Street 123",
+        "addressLine2": "Second Address 2",
+        "city": "Atlanta",
+        "state": "NY",
+        "zipCode": "57481",
+        "emailAddress": "ajolie@sample.com",
+        "telePhoneNumber": "98778564523"
+    }
+]
